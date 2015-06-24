@@ -1,2 +1,4 @@
-# andrew-home
+# andrew@home
 Elegant, seamless backups
+
+see andrew@home.ipynb.
